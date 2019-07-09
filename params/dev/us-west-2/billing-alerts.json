@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "AlarmThreshold",
+    "ParameterValue": "1"
+  }, 
+  {
+    "ParameterKey": "Email",
+    "ParameterValue": "REPLACE_ME"
+  },
+  {
+    "ParameterKey": "SmsNumber",
+    "ParameterValue": "REPLACE_ME"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "AvailabilityZone1",
+    "ParameterValue": "us-west-2a"
+  }, 
+  {
+    "ParameterKey": "AvailabilityZone2",
+    "ParameterValue": "us-west-2b"
+  }
+]
